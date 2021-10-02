@@ -1,4 +1,4 @@
-;;; yodel-parallel-demo.el --- Demo for yodel-parallel
+;;; yodel-parallel-demo.el --- Demo for yodel-parallel  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2021  Nicholas Vollmer
 
